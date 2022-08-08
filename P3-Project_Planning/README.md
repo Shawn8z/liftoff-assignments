@@ -8,7 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![my_wireframe](./)
+![my_wireframe1](./exisiting_search.jpeg)
+![my_wireframe2](./Nav_add.jpeg)
+![my_wireframe2](./plant_detail.jpeg)
+![group_wireframe](./group_wireframe.PNG)
 
 ### Project Tracker
 
