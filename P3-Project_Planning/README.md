@@ -15,7 +15,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[Include a link to your public Trello board](https://trello.com/b/Jf0aFouZ/lc101-liftoff-group-project)
+[Trello link](https://trello.com/b/Jf0aFouZ/lc101-liftoff-group-project)
 
 Be sure you have user stories added for at least your first 2-week sprint.
 
