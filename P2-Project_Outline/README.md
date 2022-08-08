@@ -27,7 +27,7 @@ plant details view
 Include Technologies 
 
 JavaScript,
-React JS,
+ReactJS,
 Database - Firebase
 
 ### What I'll Have to Learn
